@@ -6,7 +6,7 @@ The material is primarily based on *Modelling Survival Data in Medical Research 
 
 ---
 
-# 📚 Course Modules
+# 📚 Modules
 
 ## 📖 Module 1 — The Basics (Chapters 1–2)
 
