@@ -1,6 +1,6 @@
 # 🩺 Advanced Risk Modeling for Medical Applications
 
-A comprehensive collection of **graduate-level lecture slides** on **survival analysis** and **modern risk modeling methods** for medical research.
+A comprehensive collection of **lecture slides** on **survival analysis** and **modern risk modeling methods** for medical research.
 
 The material is primarily based on *Modelling Survival Data in Medical Research (4th Edition)* by **David Collett** and is supplemented with practical examples in **R**.
 
