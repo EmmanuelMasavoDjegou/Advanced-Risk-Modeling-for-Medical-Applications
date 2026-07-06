@@ -1,4 +1,4 @@
-# 🩺 Advanced Risk Modeling for Medical Applications
+# 🩺 Risk Modeling for Medical Applications
 
 A comprehensive collection of **lecture slides** on **survival analysis** and **modern risk modeling methods** for medical applications.
 
