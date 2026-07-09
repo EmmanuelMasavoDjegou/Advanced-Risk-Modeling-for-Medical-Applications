@@ -8,7 +8,7 @@ The material is primarily based on *Modelling Survival Data in Medical Research 
 
 # 📚 Modules
 
-## 📖 Module 1 — The Basics (Chapters 1–2)
+## 📖 Module 1 — The Basics
 
 This module introduces the foundations of survival analysis and nonparametric methods for analyzing time-to-event data.
 
@@ -31,7 +31,7 @@ This module introduces the foundations of survival analysis and nonparametric me
 
 ---
 
-## 📖 Module 2 — The Cox Regression Model (Chapters 3–4)
+## 📖 Module 2 — The Cox Regression Model 
 
 This module focuses on semiparametric regression models for assessing the relationship between covariates and survival outcomes.
 
@@ -59,7 +59,7 @@ This module focuses on semiparametric regression models for assessing the relati
 
 ---
 
-## 📖 Module 3 — Parametric Regression Models (Chapters 5–7)
+## 📖 Module 3 — Parametric Regression Models
 
 This module introduces fully parametric approaches for modeling survival data and compares them with the Cox model.
 
